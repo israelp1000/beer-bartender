@@ -1,0 +1,6 @@
+framework module Pods_TheBeerBartender {
+  umbrella header "Pods-TheBeerBartender-umbrella.h"
+
+  export *
+  module * { export * }
+}
